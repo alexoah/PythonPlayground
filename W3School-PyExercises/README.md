@@ -5,8 +5,8 @@ Total: 95 Exercises.
 ## [PYTHON Syntax](./PY-Syntax): 2 exercises
 W3Schools' Tutorial on PYTHON Syntax is available at: https://www.w3schools.com/python/python_syntax.asp
 
-1. [Exercise 1](./PY-Syntax/pySyntaxE1.html): answer for https://www.w3schools.com/python/exercise.asp?filename=exercise_syntax1
-2. [Exercise 2](./PY-Syntax/pySyntaxE2.html): answer for https://www.w3schools.com/python/exercise.asp?filename=exercise_syntax2
+1. [Exercise 1](./PY-Syntax/pySyntaxE1.py): answer for https://www.w3schools.com/python/exercise.asp?filename=exercise_syntax1
+2. [Exercise 2](./PY-Syntax/pySyntaxE2.py): answer for https://www.w3schools.com/python/exercise.asp?filename=exercise_syntax2
 
 
 

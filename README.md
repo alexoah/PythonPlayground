@@ -6,4 +6,5 @@ All experiments will be listed here. Thank you for your visit!
 * [W3School's Python Exercises](./W3School-PyExercises): answers to W3School's Python Exercises
 
 ---
-Created by: [Alexoah at GitHub](http://github.com/alexoah)
+<sup>Created by:  
+[Alexoah at GitHub](http://github.com/alexoah)</sup>

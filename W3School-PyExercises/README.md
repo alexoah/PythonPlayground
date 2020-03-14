@@ -5,31 +5,26 @@ Total: 95 Exercises.
 ## [PYTHON Syntax](./PY-Syntax): 2 exercises
 W3Schools' Tutorial on PYTHON Syntax is available at: https://www.w3schools.com/python/python_syntax.asp
 
-| No. | Answer | Question's URL |
-| :---: | --- | --- |
-| 1 | [Exercise 1](./PY-Syntax/pySyntaxE1.py) | https://www.w3schools.com/python/exercise.asp?filename=exercise_syntax1 |
-| 2 | [Exercise 2](./PY-Syntax/pySyntaxE2.py) | https://www.w3schools.com/python/exercise.asp?filename=exercise_syntax2 |
+| Exercises | 1 | 2 |
+| --- | --- | --- |
+| W3Schools' Question | [Q1](https://www.w3schools.com/python/exercise.asp?filename=exercise_syntax1) | [Q2](https://www.w3schools.com/python/exercise.asp?filename=exercise_syntax2) |
+| Answer | [A1](./PY-Syntax/pySyntaxE1.py) | [A2](./PY-Syntax/pySyntaxE2.py) |
 
 ## [PYTHON Comments](./PY-Comments): 2 exercises
 W3Schools' Tutorial on PYTHON Comments is available at: https://www.w3schools.com/python/python_comments.asp
 
-| No. | Answer | Question's URL |
-| :---: | --- | --- |
-| 1 | [Exercise 1](./PY-Comments/pyCommentsE1.py) | https://www.w3schools.com/python/exercise.asp?filename=exercise_comments1 |
-| 2 | [Exercise 2](./PY-Comments/pyCommentsE2.py) | https://www.w3schools.com/python/exercise.asp?filename=exercise_comments2 |
+| Exercises | 1 | 2 |
+| --- | --- | --- |
+| W3Schools' Question | [Q1](https://www.w3schools.com/python/exercise.asp?filename=exercise_comments1) | [Q2](https://www.w3schools.com/python/exercise.asp?filename=exercise_comments2) |
+| Answer | [A1](./PY-Comments/pyCommentsE1.py) | [A2](./PY-Comments/pyCommentsE2.py) |
 
 ## [PYTHON Variables](./PY-Variables): 7 exercises
 W3Schools' Tutorial on PYTHON Variables is available at: https://www.w3schools.com/python/python_variables.asp
 
-| No. | Answer | Question's URL |
-| :---: | --- | --- |
-| 1 | [Exercise 1](./PY-Variables/pyVariablesE1.py) | https://www.w3schools.com/python/exercise.asp?filename=exercise_variables1 |
-| 2 | [Exercise 2](./PY-Variables/pyVariablesE2.py) | https://www.w3schools.com/python/exercise.asp?filename=exercise_variables2 |
-| 3 | [Exercise 3](./PY-Variables/pyVariablesE3.py) | https://www.w3schools.com/python/exercise.asp?filename=exercise_variables3 |
-| 4 | [Exercise 4](./PY-Variables/pyVariablesE4.py) | https://www.w3schools.com/python/exercise.asp?filename=exercise_variables4 |
-| 5 | [Exercise 5](./PY-Variables/pyVariablesE5.py) | https://www.w3schools.com/python/exercise.asp?filename=exercise_variables5 |
-| 6 | [Exercise 6](./PY-Variables/pyVariablesE6.py) | https://www.w3schools.com/python/exercise.asp?filename=exercise_variables6 |
-| 7 | [Exercise 7](./PY-Variables/pyVariablesE7.py) | https://www.w3schools.com/python/exercise.asp?filename=exercise_variables7 |
+| Exercises | 1 | 2 | 3 | 4 | 5 | 6 | 7 |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| W3Schools' Question | [Q1](https://www.w3schools.com/python/exercise.asp?filename=exercise_variables1) | [Q2](https://www.w3schools.com/python/exercise.asp?filename=exercise_variables2) | [Q3](https://www.w3schools.com/python/exercise.asp?filename=exercise_variables3) | [Q4](https://www.w3schools.com/python/exercise.asp?filename=exercise_variables4) | [Q5](https://www.w3schools.com/python/exercise.asp?filename=exercise_variables5) | [Q6](https://www.w3schools.com/python/exercise.asp?filename=exercise_variables6) | [Q7](https://www.w3schools.com/python/exercise.asp?filename=exercise_variables7) |
+| Answer | [A1](./PY-Variables/pyVariablesE1.py) | [A2](./PY-Variables/pyVariablesE2.py) | [A3](./PY-Variables/pyVariablesE3.py) | [A4](./PY-Variables/pyVariablesE4.py) | [A5](./PY-Variables/pyVariablesE5.py) | [A6](./PY-Variables/pyVariablesE6.py) | [A7](./PY-Variables/pyVariablesE7.py) |
 
 _more files to be added later._
 

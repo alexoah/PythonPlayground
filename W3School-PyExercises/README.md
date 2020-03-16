@@ -32,6 +32,12 @@ Total: 95 Exercises.
 | Exercises | [Q1](https://www.w3schools.com/python/exercise.asp?filename=exercise_numbers1) | [Q2](https://www.w3schools.com/python/exercise.asp?filename=exercise_numbers2) | [Q3](https://www.w3schools.com/python/exercise.asp?filename=exercise_numbers3) |
 | Answer | [A1](./PY-Numbers/pyNumbersE1.py) | [A2](./PY-Numbers/pyNumbersE2.py) | [A3](./PY-Numbers/pyNumbersE3.py) |
 
+## [PYTHON Strings](./PY-Strings): 8 exercises
+| W3Schools [Tutorial](https://www.w3schools.com/python/python_strings.asp) | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Exercises | [Q1](https://www.w3schools.com/python/exercise.asp?filename=exercise_strings1) | [Q2](https://www.w3schools.com/python/exercise.asp?filename=exercise_strings2) | [Q3](https://www.w3schools.com/python/exercise.asp?filename=exercise_strings3) | [Q4](https://www.w3schools.com/python/exercise.asp?filename=exercise_strings4) | [Q5](https://www.w3schools.com/python/exercise.asp?filename=exercise_strings5) | [Q6](https://www.w3schools.com/python/exercise.asp?filename=exercise_strings6) | [Q7](https://www.w3schools.com/python/exercise.asp?filename=exercise_strings7) | [Q8](https://www.w3schools.com/python/exercise.asp?filename=exercise_strings8) |
+| Answer | [A1](./PY-Strings/pyStringsE1.py) | [A2](./PY-Strings/pyStringsE2.py) | [A3](./PY-Strings/pyStringsE3.py) | [A4](./PY-Strings/pyStringsE4.py) | [A5](./PY-Strings/pyStringsE5.py) | [A6](./PY-Strings/pyStringsE6.py) | [A7](./PY-Strings/pyStringsE7.py) | [A8](./PY-Strings/pyStringsE8.py) |
+
 
 _more files to be added later._
 

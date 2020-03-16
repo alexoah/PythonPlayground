@@ -26,6 +26,13 @@ Total: 95 Exercises.
 | Exercises | [Q1](https://www.w3schools.com/python/exercise.asp?filename=exercise_datatypes1) | [Q2](https://www.w3schools.com/python/exercise.asp?filename=exercise_datatypes2) | [Q3](https://www.w3schools.com/python/exercise.asp?filename=exercise_datatypes3) | [Q4](https://www.w3schools.com/python/exercise.asp?filename=exercise_datatypes4) | [Q5](https://www.w3schools.com/python/exercise.asp?filename=exercise_datatypes5) | [Q6](https://www.w3schools.com/python/exercise.asp?filename=exercise_datatypes6) | [Q7](https://www.w3schools.com/python/exercise.asp?filename=exercise_datatypes7) |
 | Answer | [A1](./PY-DataTypes/pyDataTypesE1.txt) | [A2](./PY-DataTypes/pyDataTypesE2.txt) | [A3](./PY-DataTypes/pyDataTypesE3.txt) | [A4](./PY-DataTypes/pyDataTypesE4.txt) | [A5](./PY-DataTypes/pyDataTypesE5.txt) | [A6](./PY-DataTypes/pyDataTypesE6.txt) | [A7](./PY-DataTypes/pyDataTypesE7.txt) |
 
+## [PYTHON Numbers](./PY-Numbers): 3 exercises
+| W3Schools [Tutorial](https://www.w3schools.com/python/python_numbers.asp) | 1 | 2 | 3 |
+| --- | --- | --- | --- |
+| Exercises | [Q1](https://www.w3schools.com/python/exercise.asp?filename=exercise_numbers1) | [Q2](https://www.w3schools.com/python/exercise.asp?filename=exercise_numbers2) | [Q3](https://www.w3schools.com/python/exercise.asp?filename=exercise_numbers3) |
+| Answer | [A1](./PY-Numbers/pyNumbersE1.py) | [A2](./PY-Numbers/pyNumbersE2.py) | [A3](./PY-Numbers/pyNumbersE3.py) |
+
+
 _more files to be added later._
 
 

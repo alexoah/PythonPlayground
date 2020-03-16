@@ -1,0 +1,11 @@
+"""
+from PYTHON Data Types: Exercise 2 ( https://www.w3schools.com/python/exercise.asp?filename=exercise_datatypes2 )
+
+question:
+    The following code example would print the data type of x, what data type would that be?
+    
+    x = "Hello World"
+    print(type(x))
+    ___
+"""
+str

@@ -1,0 +1,12 @@
+"""
+from PYTHON Data Types: Exercise 3 ( https://www.w3schools.com/python/exercise.asp?filename=exercise_datatypes3 )
+
+question:
+    The following code example would print the data type of x, what data type would that be?
+
+    x = 20.5
+    print(type(x))
+    
+    _____
+"""
+float

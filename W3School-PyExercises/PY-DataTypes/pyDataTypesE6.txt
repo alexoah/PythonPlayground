@@ -1,0 +1,12 @@
+"""
+from PYTHON Data Types: Exercise 6 ( https://www.w3schools.com/python/exercise.asp?filename=exercise_datatypes6 )
+
+question:
+    The following code example would print the data type of x, what data type would that be?
+
+    x = {"name" : "John", "age" : 36}
+    print(type(x))
+    
+    ____
+"""
+dict

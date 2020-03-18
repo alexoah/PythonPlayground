@@ -48,7 +48,7 @@ Total: 95 Exercises.
 | W3Schools [Tutorial](https://www.w3schools.com/python/python_operators.asp) | 1 | 2 | 3 | 4 | 5 |
 | --- | --- | --- | --- | --- | --- |
 | Exercises | [Q1](https://www.w3schools.com/python/exercise.asp?filename=exercise_operators1) | [Q2](https://www.w3schools.com/python/exercise.asp?filename=exercise_operators2) | [Q3](https://www.w3schools.com/python/exercise.asp?filename=exercise_operators3) | [Q4](https://www.w3schools.com/python/exercise.asp?filename=exercise_operators4) | [Q5](https://www.w3schools.com/python/exercise.asp?filename=exercise_operators5) |
-| Answer | [A1](./PY-Operators/pyOperatorsE1.txt) | [A2](./PY-Operators/pyOperatorsE2.txt) | [A3](./PY-Operators/pyOperatorsE3.txt) | [A4](./PY-Operators/pyOperatorsE4.txt) | [A5](./PY-Operators/pyOperatorsE5.txt) |
+| Answer | [A1](./PY-Operators/pyOperatorsE1.py) | [A2](./PY-Operators/pyOperatorsE2.py) | [A3](./PY-Operators/pyOperatorsE3.py) | [A4](./PY-Operators/pyOperatorsE4.py) | [A5](./PY-Operators/pyOperatorsE5.py) |
 
 _more files to be added later._
 

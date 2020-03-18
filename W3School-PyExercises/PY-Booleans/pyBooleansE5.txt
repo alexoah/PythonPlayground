@@ -1,0 +1,10 @@
+"""
+from PYTHON Booleans: Exercise 5 ( https://www.w3schools.com/python/exercise.asp?filename=exercise_booleans5 )
+
+question:
+    The statement below would print a Boolean value, which one?
+
+    print(bool(0))
+    _____
+"""
+False

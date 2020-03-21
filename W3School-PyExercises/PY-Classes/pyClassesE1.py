@@ -1,5 +1,5 @@
 """
-from PYTHON Lists: Exercise 1 ( https://www.w3schools.com/python/exercise.asp?filename=exercise_lists1 )
+from PYTHON Classes: Exercise 1 ( https://www.w3schools.com/python/exercise.asp?filename=exercise_classes1 )
 
 question:
     Create a class named MyClass:

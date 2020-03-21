@@ -50,10 +50,47 @@ Total: 95 Exercises.
 | Exercises | [Q1](https://www.w3schools.com/python/exercise.asp?filename=exercise_operators1) | [Q2](https://www.w3schools.com/python/exercise.asp?filename=exercise_operators2) | [Q3](https://www.w3schools.com/python/exercise.asp?filename=exercise_operators3) | [Q4](https://www.w3schools.com/python/exercise.asp?filename=exercise_operators4) | [Q5](https://www.w3schools.com/python/exercise.asp?filename=exercise_operators5) |
 | Answer | [A1](./PY-Operators/pyOperatorsE1.py) | [A2](./PY-Operators/pyOperatorsE2.py) | [A3](./PY-Operators/pyOperatorsE3.py) | [A4](./PY-Operators/pyOperatorsE4.py) | [A5](./PY-Operators/pyOperatorsE5.py) |
 
-_more files to be added later._
+## [PYTHON Lists](./PY-Lists): 8 exercises
+| W3Schools [Tutorial](https://www.w3schools.com/python/python_lists.asp) | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Exercises | [Q1](https://www.w3schools.com/python/exercise.asp?filename=exercise_lists1) | [Q2](https://www.w3schools.com/python/exercise.asp?filename=exercise_lists2) | [Q3](https://www.w3schools.com/python/exercise.asp?filename=exercise_lists3) | [Q4](https://www.w3schools.com/python/exercise.asp?filename=exercise_lists4) | [Q5](https://www.w3schools.com/python/exercise.asp?filename=exercise_lists5) | [Q6](https://www.w3schools.com/python/exercise.asp?filename=exercise_lists6) | [Q7](https://www.w3schools.com/python/exercise.asp?filename=exercise_lists7) | [Q8](https://www.w3schools.com/python/exercise.asp?filename=exercise_lists8) |
+| Answer | [A1](./PY-Lists/pyListsE1.py) | [A2](./PY-Lists/pyListsE2.py) | [A3](./PY-Lists/pyListsE3.py) | [A4](./PY-Lists/pyListsE4.py) | [A5](./PY-Lists/pyListsE5.py) | [A6](./PY-Lists/pyListsE6.py) | [A7](./PY-Lists/pyListsE7.py) | [A8](./PY-Lists/pyListsE8.py) |
 
+## [PYTHON Tuples](./PY-Tuples): 4 exercises
+| W3Schools [Tutorial](https://www.w3schools.com/python/python_tuples.asp) | 1 | 2 | 3 | 4 |
+| --- | --- | --- | --- | --- |
+| Exercises | [Q1](https://www.w3schools.com/python/exercise.asp?filename=exercise_tuples1) | [Q2](https://www.w3schools.com/python/exercise.asp?filename=exercise_tuples2) | [Q3](https://www.w3schools.com/python/exercise.asp?filename=exercise_tuples3) | [Q4](https://www.w3schools.com/python/exercise.asp?filename=exercise_tuples4) |
+| Answer | [A1](./PY-Tuples/pyTuplesE1.py) | [A2](./PY-Tuples/pyTuplesE2.py) | [A3](./PY-Tuples/pyTuplesE3.py) | [A4](./PY-Tuples/pyTuplesE4.py) |
 
+## [PYTHON Sets](./PY-Sets): 5 exercises
+| W3Schools [Tutorial](https://www.w3schools.com/python/python_sets.asp) | 1 | 2 | 3 | 4 | 5 |
+| --- | --- | --- | --- | --- | --- |
+| Exercises | [Q1](https://www.w3schools.com/python/exercise.asp?filename=exercise_sets1) | [Q2](https://www.w3schools.com/python/exercise.asp?filename=exercise_sets2) | [Q3](https://www.w3schools.com/python/exercise.asp?filename=exercise_sets3) | [Q4](https://www.w3schools.com/python/exercise.asp?filename=exercise_sets4) | [Q5](https://www.w3schools.com/python/exercise.asp?filename=exercise_sets5) |
+| Answer | [A1](./PY-Sets/pySetsE1.py) | [A2](./PY-Sets/pySetsE2.py) | [A3](./PY-Sets/pySetsE3.py) | [A4](./PY-Sets/pySetsE4.py) | [A5](./PY-Sets/pySetsE5.py) |
 
+## [PYTHON Dictionaries](./PY-Dictionaries): 5 exercises
+| W3Schools [Tutorial](https://www.w3schools.com/python/python_dictionaries.asp) | 1 | 2 | 3 | 4 | 5 |
+| --- | --- | --- | --- | --- | --- |
+| Exercises | [Q1](https://www.w3schools.com/python/exercise.asp?filename=exercise_dictionaries1) | [Q2](https://www.w3schools.com/python/exercise.asp?filename=exercise_dictionaries2) | [Q3](https://www.w3schools.com/python/exercise.asp?filename=exercise_dictionaries3) | [Q4](https://www.w3schools.com/python/exercise.asp?filename=exercise_dictionaries4) | [Q5](https://www.w3schools.com/python/exercise.asp?filename=exercise_dictionaries5) |
+| Answer | [A1](./PY-Dictionaries/pyDictionariesE1.py) | [A2](./PY-Dictionaries/pyDictionariesE2.py) | [A3](./PY-Dictionaries/pyDictionariesE3.py) | [A4](./PY-Dictionaries/pyDictionariesE4.py) | [A5](./PY-Dictionaries/pyDictionariesE5.py) |
+
+## [PYTHON If...Else](./PY-IfElse): 9 exercises
+| W3Schools [Tutorial](https://www.w3schools.com/python/python_conditions.asp) | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Exercises | [Q1](https://www.w3schools.com/python/exercise.asp?filename=exercise_ifelse1) | [Q2](https://www.w3schools.com/python/exercise.asp?filename=exercise_ifelse2) | [Q3](https://www.w3schools.com/python/exercise.asp?filename=exercise_ifelse3) | [Q4](https://www.w3schools.com/python/exercise.asp?filename=exercise_ifelse4) | [Q5](https://www.w3schools.com/python/exercise.asp?filename=exercise_ifelse5) | [Q6](https://www.w3schools.com/python/exercise.asp?filename=exercise_ifelse6) | [Q7](https://www.w3schools.com/python/exercise.asp?filename=exercise_ifelse7) | [Q8](https://www.w3schools.com/python/exercise.asp?filename=exercise_ifelse8) | [Q9](https://www.w3schools.com/python/exercise.asp?filename=exercise_ifelse9) |
+| Answer | [A1](./PY-IfElse/pyIfElseE1.py) | [A2](./PY-IfElse/pyIfElseE2.py) | [A3](./PY-IfElse/pyIfElseE3.py) | [A4](./PY-IfElse/pyIfElseE4.py) | [A5](./PY-IfElse/pyIfElseE5.py) | [A6](./PY-IfElse/pyIfElseE6.py) | [A7](./PY-IfElse/pyIfElseE7.py) | [A8](./PY-IfElse/pyIfElseE8.py) | [A9](./PY-IfElse/pyIfElseE9.py) |
+
+## [PYTHON While Loops](./PY-WhileLoops): 4 exercises
+| W3Schools [Tutorial](https://www.w3schools.com/python/python_while_loops.asp) | 1 | 2 | 3 | 4 |
+| --- | --- | --- | --- | --- |
+| Exercises | [Q1](https://www.w3schools.com/python/exercise.asp?filename=exercise_while_loops1) | [Q2](https://www.w3schools.com/python/exercise.asp?filename=exercise_while_loops2) | [Q3](https://www.w3schools.com/python/exercise.asp?filename=exercise_while_loops3) | [Q4](https://www.w3schools.com/python/exercise.asp?filename=exercise_while_loops4) |
+| Answer | [A1](./PY-WhileLoops/pyWhileLoopsE1.py) | [A2](./PY-WhileLoops/pyWhileLoopsE2.py) | [A3](./PY-WhileLoops/pyWhileLoopsE3.py) | [A4](./PY-WhileLoops/pyWhileLoopsE4.py) |
+
+## [PYTHON For Loops](./PY-ForLoops): 4 exercises
+| W3Schools [Tutorial](https://www.w3schools.com/python/python_for_loops.asp) | 1 | 2 | 3 | 4 |
+| --- | --- | --- | --- | --- |
+| Exercises | [Q1](https://www.w3schools.com/python/exercise.asp?filename=exercise_for_loops1) | [Q2](https://www.w3schools.com/python/exercise.asp?filename=exercise_for_loops2) | [Q3](https://www.w3schools.com/python/exercise.asp?filename=exercise_for_loops3) | [Q4](https://www.w3schools.com/python/exercise.asp?filename=exercise_for_loops4) |
+| Answer | [A1](./PY-ForLoops/pyForLoopsE1.py) | [A2](./PY-ForLoops/pyForLoopsE2.py) | [A3](./PY-ForLoops/pyForLoopsE3.py) | [A4](./PY-ForLoops/pyForLoopsE4.py) |
 
 
 ##

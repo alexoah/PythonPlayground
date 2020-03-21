@@ -92,6 +92,18 @@ Total: 95 Exercises.
 | Exercises | [Q1](https://www.w3schools.com/python/exercise.asp?filename=exercise_for_loops1) | [Q2](https://www.w3schools.com/python/exercise.asp?filename=exercise_for_loops2) | [Q3](https://www.w3schools.com/python/exercise.asp?filename=exercise_for_loops3) | [Q4](https://www.w3schools.com/python/exercise.asp?filename=exercise_for_loops4) |
 | Answer | [A1](./PY-ForLoops/pyForLoopsE1.py) | [A2](./PY-ForLoops/pyForLoopsE2.py) | [A3](./PY-ForLoops/pyForLoopsE3.py) | [A4](./PY-ForLoops/pyForLoopsE4.py) |
 
+## [PYTHON Functions](./PY-Functions): 6 exercises
+| W3Schools [Tutorial](https://www.w3schools.com/python/python_functions.asp) | 1 | 2 | 3 | 4 | 5 | 6 |
+| --- | --- | --- | --- | --- | --- | --- |
+| Exercises | [Q1](https://www.w3schools.com/python/exercise.asp?filename=exercise_functions1) | [Q2](https://www.w3schools.com/python/exercise.asp?filename=exercise_functions2) | [Q3](https://www.w3schools.com/python/exercise.asp?filename=exercise_functions3) | [Q4](https://www.w3schools.com/python/exercise.asp?filename=exercise_functions4) | [Q5](https://www.w3schools.com/python/exercise.asp?filename=exercise_functions5) | [Q6](https://www.w3schools.com/python/exercise.asp?filename=exercise_functions6) |
+| Answer | [A1](./PY-Functions/pyFunctionsE1.py) | [A2](./PY-Functions/pyFunctionsE2.py) | [A3](./PY-Functions/pyFunctionsE3.py) | [A4](./PY-Functions/pyFunctionsE4.py) | [A5](./PY-Functions/pyFunctionsE5.py) | [A6](./PY-Functions/pyFunctionsE6.py) |
+
+## [PYTHON Lambda](./PY-Lambda): 1 exercises
+| W3Schools [Tutorial](https://www.w3schools.com/python/python_lambda.asp) | 1 |
+| --- | --- |
+| Exercises | [Q1](https://www.w3schools.com/python/exercise.asp?filename=exercise_lambda1) |
+| Answer | [A1](./PY-Lambda/pyLambdaE1.py) |
+
 
 ##
 <sup>:octocat: Created by [@alexoah](http://github.com/alexoah) at GitHub.</sup>

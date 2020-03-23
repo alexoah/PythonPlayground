@@ -1,8 +1,8 @@
-# PythonPlayground: Alexoah's Python PlayGround
-Just for fun experiments on Python programming language.  
-All experiments will be listed here. Thank you for your visit!
+# Alexoah's Python PlayGround
+A collection of Python programming language exercises.  
+Thank you for your visit!
 
-## List of Python Experiments
+## List of Exercises
 * [W3School's Python Exercises](./W3School-PyExercises): answers to W3School's Python Exercises
 
 ##

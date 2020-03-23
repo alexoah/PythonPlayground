@@ -1,5 +1,5 @@
 # Introduction
-All these files are from doing [W3Schools' Python Exercises](https://www.w3schools.com/python/python_exercises.asp)  
+All these files are from doing [W3Schools' Python Exercises](https://www.w3schools.com/python/exercise.asp)  
 Total: 95 Exercises.
 
 ## [PYTHON Syntax](./PY-Syntax): 2 exercises

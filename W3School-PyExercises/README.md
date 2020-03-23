@@ -104,6 +104,23 @@ Total: 95 Exercises.
 | Exercises | [Q1](https://www.w3schools.com/python/exercise.asp?filename=exercise_lambda1) |
 | Answer | [A1](./PY-Lambda/pyLambdaE1.py) |
 
+## [PYTHON Classes](./PY-Classes): 4 exercises
+| W3Schools [Tutorial](https://www.w3schools.com/python/python_classes.asp) | 1 | 2 | 3 | 4 |
+| --- | --- | --- | --- | --- |
+| Exercises | [Q1](https://www.w3schools.com/python/exercise.asp?filename=exercise_classes1) | [Q2](https://www.w3schools.com/python/exercise.asp?filename=exercise_classes2) | [Q3](https://www.w3schools.com/python/exercise.asp?filename=exercise_classes3) | [Q4](https://www.w3schools.com/python/exercise.asp?filename=exercise_classes4) |
+| Answer | [A1](./PY-Classes/pyClassesE1.py) | [A2](./PY-Classes/pyClassesE2.py) | [A3](./PY-Classes/pyClassesE3.py) | [A4](./PY-Classes/pyClassesE4.py) |
+
+## [PYTHON Inheritance](./PY-Inheritance): 2 exercises
+| W3Schools [Tutorial](https://www.w3schools.com/python/python_inheritance.asp) | 1 | 2 |
+| --- | --- | --- |
+| Exercises | [Q1](https://www.w3schools.com/python/exercise.asp?filename=exercise_inheritance1) | [Q2](https://www.w3schools.com/python/exercise.asp?filename=exercise_inheritance2) |
+| Answer | [A1](./PY-Inheritance/pyInheritanceE1.py) | [A2](./PY-Inheritance/pyInheritanceE2.py) |
+
+## [PYTHON Modules](./PY-Modules): 4 exercises
+| W3Schools [Tutorial](https://www.w3schools.com/python/python_modules.asp) | 1 | 2 | 3 | 4 |
+| --- | --- | --- | --- | --- |
+| Exercises | [Q1](https://www.w3schools.com/python/exercise.asp?filename=exercise_modules1) | [Q2](https://www.w3schools.com/python/exercise.asp?filename=exercise_modules2) | [Q3](https://www.w3schools.com/python/exercise.asp?filename=exercise_modules3) | [Q4](https://www.w3schools.com/python/exercise.asp?filename=exercise_modules4) |
+| Answer | [A1](./PY-Modules/pyModulesE1.py) | [A2](./PY-Modules/pyModulesE2.py) | [A3](./PY-Modules/pyModulesE3.py) | [A4](./PY-Modules/pyModulesE4.py) |
 
 ##
 <sup>:octocat: Created by [@alexoah](http://github.com/alexoah) at GitHub.</sup>

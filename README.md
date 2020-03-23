@@ -1,4 +1,4 @@
-# Alexoah's Python PlayGround
+# Alexoah's Python Playground
 A collection of Python programming language exercises.  
 Thank you for your visit!
 
